@@ -1,0 +1,7 @@
+app:
+  image: cthulhu666/docker-teamspeak
+  ports:
+    - "30033:30033"
+    - "9987:9987/udp"
+    - "10011:10011"
+
